@@ -1,7 +1,7 @@
 
 {
   "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+    { "id": 1, "title": "json-server", "author": "typicode", "description": "A breif description of the json server with data" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
